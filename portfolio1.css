@@ -19,7 +19,6 @@
 .home bg-image h1{
     align-content: center;
     color: rgb(167, 1, 34);
-    background-image: ;
 }
 .home h6{
 
@@ -94,18 +93,23 @@ i{
     padding: 50px 10% 0;
 
 }
+.home-image{
+    margin-top: -35%;
+    margin-left: 60%;
+    }
 .bg-image {
-    background: url("top-view-dark-stylish-workplace-with-smartphone-office-supplies_67155-2963.avif");
+    background: url("desktop-wallpaper-portfolio.jpg");
     background-size: cover;
     background-position: cover;
     align-items: center;
 }
 .resumephoto copy.jpg{
-    background: url("top-view-dark-stylish-workplace-with-smartphone-office-supplies_67155-2963.avif");
+    background: url("desktop-wallpaper-portfolio.jpg");
     background-size: cover;
     background-position: cover;    
     align-items: center;
 }
+
 
 .home-content {
     max-width: 600px;
